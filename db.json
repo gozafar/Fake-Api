@@ -1,0 +1,31 @@
+{
+    "zafar": [
+        {
+            "id": 1,
+            "Name": "zafaryab khan",
+            "Email": "zafaryabkham@gmail.com",
+            "Mobile No": "8051403274",
+            "Gender": "Male",
+            "Added By": "Admin",
+            "DOB": "10-03-1994",
+            "DOJ": "12-10-2021",
+            "Department": "Developer",
+            "Position": "UI",
+            "Work Type": "Office",
+            "Salary": "15000",
+            "Account No": "489910110006274",
+            "IFSC Code": "bkid0004899",
+            "Aadhar No": "124585756396",
+            "PAN No": "cqfk4615q",
+            "Referred By": "ABCD",
+            "Adress": "Ranchi",
+            "City": "Ranchi",
+            "State": "jharkhand"
+        },
+        {
+            "id": 1,
+            "name": "java-server",
+            "author": "zafartypicode"
+        }
+    ]
+}
